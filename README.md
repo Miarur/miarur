@@ -1,9 +1,9 @@
-# Hi there 👋
+## Hi there 👋
 
-## My name is Andrey. I'm a front-end developer. 
-## I do small React projects. I can confidently create websites. 
+### My name is Andrey. I'm a front-end developer. 
+### I do small React projects. I can confidently create websites. 
 
-# Languages and Tools:
+## Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-2F4F4F?style=for-the-badge&logo=sass)
@@ -16,7 +16,7 @@
 ![mongodb](https://img.shields.io/badge/-MongoDB-2F4F4F?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-Docker-2F4F4F?style=for-the-badge&logo=docker)
 
-# Follow me:
+## Follow me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreysmolko/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anglichanin_rc/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/erfmZKGspB)
