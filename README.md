@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### My name is Andrey. I'm a front-end developer. 
-### I do small React projects. I can confidently create websites. 
 
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=html5)
