@@ -14,6 +14,8 @@
 ![NODEJS](https://img.shields.io/badge/-NODE&nbsp;JS-2F4F4F?style=for-the-badge&logo=node.js)
 ![mongodb](https://img.shields.io/badge/-MongoDB-2F4F4F?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/-Docker-2F4F4F?style=for-the-badge&logo=docker)
+![bitbucket](https://img.shields.io/badge/-Bitbucket-2F4F4F?style=for-the-badge&logo=bitbucket)
+![VUE2](https://img.shields.io/badge/-Vue.js-2F4F4F?style=for-the-badge&logo=vue.js)
 
 ## Follow me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreysmolko/)
