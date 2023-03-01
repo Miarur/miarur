@@ -24,7 +24,7 @@
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=for-the-badge&logo=ubuntu)
 ![Mint](https://img.shields.io/badge/-mint-333333?style=for-the-badge&logo=linuxmint)
 
-### favorite linux distribution
+## Favorite linux distribution
 ![Arch](https://img.shields.io/badge/-archlinux-333333?style=for-the-badge&logo=archlinux)
 
 ## Follow me:
