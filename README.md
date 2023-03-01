@@ -17,6 +17,16 @@
 ![bitbucket](https://img.shields.io/badge/-Bitbucket-2F4F4F?style=for-the-badge&logo=bitbucket)
 ![VUE2](https://img.shields.io/badge/-Vue.js-2F4F4F?style=for-the-badge&logo=vue.js)
 
+## OS:
+![Windows](https://img.shields.io/badge/-Windows-357EC7?style=for-the-badge&logo=windows)
+![linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
+![Arch](https://img.shields.io/badge/-archlinux-333333?style=for-the-badge&logo=archlinux)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-333333?style=for-the-badge&logo=ubuntu)
+![Mint](https://img.shields.io/badge/-mint-333333?style=for-the-badge&logo=linuxmint)
+
+### favorite linux distribution
+![Arch](https://img.shields.io/badge/-archlinux-333333?style=for-the-badge&logo=archlinux)
+
 ## Follow me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreysmolko/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anglichanin_rc/)
