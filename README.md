@@ -16,7 +16,7 @@
 ![docker](https://img.shields.io/badge/-Docker-2F4F4F?style=for-the-badge&logo=docker)
 ![bitbucket](https://img.shields.io/badge/-Bitbucket-2F4F4F?style=for-the-badge&logo=bitbucket)
 ![VUE2](https://img.shields.io/badge/-Vue.js-2F4F4F?style=for-the-badge&logo=vue.js)
-![NUXT](https://img.shields.io/badge/-Nuxt-2F4F4F?style=for-the-badge&logo=nuxt.js)
+![NUXT](https://img.shields.io/badge/-Nuxt%20JS-2F4F4F?style=for-the-badge&logo=nuxt)
 
 ## OS:
 ![Windows](https://img.shields.io/badge/-Windows-357EC7?style=for-the-badge&logo=windows)
