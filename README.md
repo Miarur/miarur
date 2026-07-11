@@ -18,7 +18,7 @@
 ![Nitro](https://img.shields.io/badge/Nitro-111827?style=for-the-badge&logo=nuxtdotjs&logoColor=00DCFF)
 ![WebSockets](https://img.shields.io/badge/WebSockets-26A6FF?style=for-the-badge&logo=websocket&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-22C55E?style=for-the-badge&logo=canvas&logoColor=white)
-![Chart.js]((https://img.shields.io/badge/Chart.js-FB4D3D?style=for-the-badge&logo=chartdotjs&logoColor=white))
+![Chart.js](https://img.shields.io/badge/Chart.js-FB4D3D?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 #### Proficient With:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
