@@ -1,6 +1,6 @@
 ## Hi there!👋
 
-### Frontend Engineer with 6+ years of experience specializing in Vue.js and large-scale application development for the real estate and e-commerce sectors. Drove the migration of a core platform serving 9M+ monthly users to Vue 3 and Nuxt.js at Samolet. Proven ability to enhance user experience and business outcomes, contributing to a 35% reduction in customer support load by redesigning key user flows. Seeking to apply expertise in modern frontend architecture to build scalable and impactful products.
+### Senior Frontend Engineer with 6+ years of experience. During this time, I have worked with big applications, mainly written in Vue.js, for customers from real estate  and e-commerce industries. I have led the migration of the core platform of Samolet( 9+ million monthly users) to Vue 3 and Nuxt.js.  Proven project architecture design ability delivering reliable, maintainable UI systems in cross-functional teams.
 
 ### Core Stack:
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-2F4F4F?style=for-the-badge&logo=javascript) 
